@@ -29,7 +29,7 @@ To address these risks, the following remediation strategy was proposed:
 * **Medium-Term:** Update the website to include GDPR-compliant consent forms.
 
 ## 📂 Project Files
-* [View the Full Audit Report (PDF)](./Botium_Toys_Security_Audit.pdf) *(Note: Ensure this filename matches exactly what you uploaded)*
+* [View the Full Audit Report (PDF)](./Botium_Toys_Security_Audit.pdf)
 
 ---
 *This project was completed as part of the Google Cybersecurity Professional Certificate.*
