@@ -29,8 +29,8 @@ To address these risks, the following remediation strategy was proposed:
 * **Medium-Term:** Update the website to include GDPR-compliant consent forms.
 
 * ## 📂 Project Files
-* **[Risk Assessment Report](./Botium_Risk_Assessment.pdf):** The initial analysis of Botium Toys' scope, goals, and critical assets.
-* **[Controls & Compliance Checklist](./Botium_Controls_Checklist.pdf):** The audit findings, identifying specific gaps in PCI DSS, GDPR, and NIST controls.
+* **[Risk Assessment Report](Botium Toys_ Scope, goals, and risk assessment report.pdf):** The initial analysis of Botium Toys' scope, goals, and critical assets.
+* **[Controls & Compliance Checklist]():** The audit findings, identifying specific gaps in PCI DSS, GDPR, and NIST controls.
 
 ---
 *This project was completed as part of the Google Cybersecurity Professional Certificate.*
